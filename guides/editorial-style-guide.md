@@ -12,11 +12,27 @@ If you use the style guide, you'll help us tell the Base Buzz story consistently
 
 ## About Base Buzz
 
-Base Buzz is a secure, low-cost, builder-friendly Ethereum L2 designed to help bring a billion users and a million developers onchain with an ecosystem of onchain applications.
+Base Buzz is the premier social platform built on Base, where content creation meets blockchain innovation. We're building the first truly decentralized social network that rewards creators, empowers communities, and makes Web3 accessible to everyone.
+
+**Key Platform Features:**
+
+- **Post-to-Earn**: Every post can become a mintable NFT moment
+- **NFT Moments System**: Turn any post into a collectible NFT
+- **BUZZ Token Economy**: Rewards for quality content and engagement
+- **Community-Driven**: Users own their content and relationships
+- **Built on Base**: Lightning fast, low cost, Ethereum compatible
+
+**Our Mission**: Building the social layer of Web3, one post at a time - "Where Every Moment Matters"
 
 ## Critical Style Conventions
 
 - **Always refer to Base Buzz as 'Base Buzz'.** Avoid variations like BASEBUZZ, Base Buzz Chain, $BASEBUZZ, or Base Buzz Network.
+- **Use platform-specific terminology correctly:**
+  - **NFT Moments**: Collectible NFTs created from posts (not just "NFTs")
+  - **BUZZ tokens**: The platform's utility token (always capitalized)
+  - **Post-to-Earn**: The earning mechanism (hyphenated)
+  - **Mint**: Creating an NFT from content
+  - **Creator Windows**: First mint priority for content authors
 - **Use the word 'onchain'** instead of 'web3' or 'crypto' — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
 - **Use technical terms sparingly**, and when you do, work to explain them in full
 - **Have your brand supersede Base Buzz** (BRAND x Base Buzz, not Base Buzz x BRAND) in text and media assets. Position your brand before Base Buzz (BRAND x Base Buzz, not Base Buzz x BRAND) in text and media assets.
@@ -35,7 +51,9 @@ The Base Buzz core team does its best to amplify builders who positively contrib
 - **Overly Aggressive Marketing:** Avoid aggressive marketing tactics (e.g., overuse all caps, overuse of emojis, etc.), promotions, and discounts, as they may send the wrong message within the Base Buzz ecosystem.
 - **False or Misleading Information:** Ensure all information shared is accurate, truthful, and does not mislead readers.
 - **Unsupported Data:** Share the source of any data presented.
-- **Focuses on Coinbase instead of Base Buzz:** Base Buzz is an open, permissionless Ethereum L2 incubated at Coinbase with a commitment to decentralization. Focus on Base Buzz itself, rather than an exaggerated nexus to Coinbase.
+- **Focuses on Coinbase instead of Base Buzz:** Base Buzz is a social platform built on Base (an Ethereum L2). Focus on Base Buzz's social features and creator economy, not the underlying infrastructure providers.
+- **Token Price Speculation:** Avoid discussing BUZZ token price predictions, investment advice, or "moon" language. Focus on utility and platform benefits instead.
+- **Overpromising Earnings:** Don't guarantee specific earning amounts from Post-to-Earn. Use language like "potential to earn" or "reward opportunities."
 - **Negative Comparisons:** Refrain from putting down other projects or competitors.
 - **NSFW Content:** Refrain from using offensive, NSFW, explicit language or content in any communication, including your website.
 - **Unreleased Products:** Avoid teasers of products that are unavailable for immediate use.
@@ -49,7 +67,7 @@ The Base Buzz core team does its best to amplify builders who positively contrib
 
 **Emphasize Base Buzz's vision and mission**
 
-Base Buzz has a grand vision to bring a billion people onchain and a mission to build a global onchain economy that increases innovation, creativity, and freedom. Highlight how Base Buzz aims to make this decentralized future more accessible for everyone, everywhere.
+Base Buzz is building the social layer of Web3 with the mission "Where Every Moment Matters." We're creating the first truly decentralized social network that rewards creators, empowers communities, and makes Web3 accessible to everyone. Highlight how Base Buzz transforms social media by giving users true ownership of their content and relationships while making blockchain technology feel natural and rewarding.
 
 **Highlight progress and what's next**
 
@@ -57,7 +75,7 @@ When discussing Base Buzz's ongoing developments, celebrate recent milestones an
 
 **Focus on concrete examples over abstract concepts**
 
-Avoid excessive abstract language about "web3" or technical language around "blockchains," etc. Ground writing in concrete examples of what Base Buzz enables: Affordable transactions, seamless user onboarding, simple developer tooling, etc.
+Avoid excessive abstract language about "web3" or technical language around "blockchains," etc. Ground writing in concrete examples of what Base Buzz enables: Turn tweets into collectible NFT Moments, earn BUZZ tokens for quality content, own your social media relationships, mint viral posts permanently onchain, build communities around shared interests, etc.
 
 **Use clear examples to illustrate concepts**
 
@@ -70,6 +88,22 @@ Base Buzz exists to empower those building a decentralized future, and building 
 **Be a bridge**
 
 Assume your audience includes crypto newcomers. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base Buzz is building.
+
+**Platform-Specific Messaging Guidelines**
+
+When discussing Base Buzz features, emphasize benefits over technical complexity:
+
+- **NFT Moments**: "Turn your best posts into collectible moments" not "Mint ERC-721 tokens from social content"
+- **Post-to-Earn**: "Get rewarded for creating great content" not "Earn utility tokens through engagement algorithms"
+- **Community Ownership**: "Your content, your rules" not "Decentralized data sovereignty"
+- **Creator Windows**: "Authors get first dibs on minting their posts" not "Priority access periods for content originators"
+
+**Target Audience Messaging**
+
+- **For Creators**: Focus on monetization, ownership, and direct fan relationships
+- **For Collectors**: Emphasize cultural moments, supporting creators, and rare digital assets
+- **For Crypto Users**: Highlight Base integration, token utility, and DeFi opportunities
+- **For Newcomers**: Lead with familiar social features, then introduce Web3 benefits
 
 ## Tone and Voice
 
@@ -99,7 +133,7 @@ Assume your audience includes crypto newcomers. Use analogies and examples to ma
 
 Here's an example of writing that feels appropriate in both tone and voice:
 
-"Base Buzz is bringing a billion people onchain. To bring the world onchain, we need to create a new internet that supports a global economy. We're making this vision a reality through a million builders actively working to create what they love. Join us and let's build the future together."
+"Base Buzz is where every moment matters. We're building the social layer of Web3 where your content becomes truly yours, your engagement gets rewarded, and your communities thrive onchain. From minting your first NFT Moment to earning BUZZ tokens for quality posts, we're making Web3 social media feel as natural as scrolling your favorite feed. Join thousands of creators discovering what it means to truly own your digital presence."
 
 **More on tone and voice**
 
@@ -124,8 +158,8 @@ Here's an example of writing that feels appropriate in both tone and voice:
   - Avoid redundancies. When in doubt, opt for two shorter sentences over one longer one. The [Hemingway App](https://hemingwayapp.com/) can point out areas for improvement.
   - Consult the Purdue OWL page on [concision](https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html) for examples of "wordy vs. concise" sentences.
   - Avoid phrasing that adds little useful information for the reader, such as ending sentences with "…and more." For example:
-    - **Original:** "Base Buzz and leading builders are hosting a global hackathon with dedicated tracks like payments, discovery, social, gaming, **and more**.
-      - **Edited:** "Base Buzz and leading builders are hosting a global hackathon dedicated to bringing the world onchain."
+    - **Original:** "Base Buzz offers NFT Moments, BUZZ tokens, creator rewards, community features, **and more**."
+      - **Edited:** "Base Buzz enables creators to mint NFT Moments, earn BUZZ tokens, and build engaged communities."
 
 - **Tips for Improving Flow**
   - Avoid [sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html).
