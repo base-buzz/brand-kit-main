@@ -171,7 +171,7 @@ Here's an example of writing that feels appropriate in both tone and voice:
 
 - In general, follow the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html) guidelines for capitalization.
 - For headlines, use title case, not sentence case.
-  - Example: [Onchain Summer II is Coming](https://base.mirror.xyz/HoH9cZVi8CMdvxVUNjvOzceUPVQcVZvvkf8ZbCOVOco)
+  - Example: [Onchain Summer II is Coming](https://base.buzz/blog/onchain-summer-ii-is-coming)
 
 **Punctuation**
 

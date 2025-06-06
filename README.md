@@ -15,10 +15,10 @@ Base Buzz is the premier social platform built on Base, where content creation m
 
 <!-- Badge row 2 - links and profiles -->
 
-[![Website basebuzz.org](https://img.shields.io/website-up-down-green-red/https/basebuzz.org.svg)](https://basebuzz.org)
-[![Blog](https://img.shields.io/badge/blog-up-green)](https://basebuzz.mirror.xyz/)
-[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.basebuzz.org/)
-[![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://basebuzz.org/discord)
+[![Website base.buzz](https://img.shields.io/website-up-down-green-red/https/base.buzz.svg)](https://base.buzz)
+[![Blog](https://img.shields.io/badge/blog-up-green)](https://base.buzz/blog)
+[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.base.buzz/)
+[![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://base.buzz/discord)
 [![Twitter Base Buzz](https://img.shields.io/twitter/follow/BaseBuzz?style=social)](https://twitter.com/BaseBuzz)
 
 <!-- Badge row 3 - detailed status -->

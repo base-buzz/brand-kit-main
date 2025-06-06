@@ -230,10 +230,10 @@ Be part of the platform that's redefining social media for the blockchain era.
 
 ## 📞 **Get Started**
 
-- **Website**: [base-buzz.vercel.app](https://base.buzz)
-- **Documentation**: [Developer APIs and Guides](https://base.buzz/developer)
+- **Website**: [base.buzz](https://base.buzz)
+- **Documentation**: [Developer APIs and Guides](https://docs.base.buzz)
 - **Community**: Join our Discord and Telegram
-- **Contact**: team@base.buzz
+- **Contact**: hello@base.buzz
 
 ---
 
