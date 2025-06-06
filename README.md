@@ -1,4 +1,4 @@
-![Base Buzz](logo.webp)
+![Base Buzz](logo.png)
 
 # Base Buzz brand-kit
 
