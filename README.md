@@ -19,7 +19,7 @@ Base Buzz is the premier social platform built on Base, where content creation m
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://base.buzz/blog)
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://base.buzz/developer)
 [![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://base.buzz/discord)
-[![Twitter Base Buzz](https://img.shields.io/twitter/follow/BaseBuzz?style=social)](https://twitter.com/BaseBuzz)
+[![Twitter Base Buzz](https://img.shields.io/twitter/follow/realBaseBuzz?style=social)](https://x.com/realBaseBuzz)
 
 <!-- Badge row 3 - detailed status -->
 
