@@ -37,7 +37,7 @@ Located in [/fonts](fonts/).
 
 ### Logos
 
-![InProduct](logo/in-product/Base_Network_Logo_Blue.svg)
+![InProduct](logo/in-product/BaseBuzz_Network_Logo_Blue.svg)
 
 | Symbol                                                     | Wordmark                                                    |
 | ---------------------------------------------------------- | ----------------------------------------------------------- |
