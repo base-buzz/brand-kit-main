@@ -17,7 +17,7 @@ Base Buzz is the premier social platform built on Base, where content creation m
 
 [![Website base.buzz](https://img.shields.io/website-up-down-green-red/https/base.buzz.svg)](https://base.buzz)
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://base.buzz/blog)
-[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.base.buzz/)
+[![Docs](https://img.shields.io/badge/docs-up-green)](https://base.buzz/developer)
 [![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://base.buzz/discord)
 [![Twitter Base Buzz](https://img.shields.io/twitter/follow/BaseBuzz?style=social)](https://twitter.com/BaseBuzz)
 
@@ -31,6 +31,14 @@ Base Buzz is the premier social platform built on Base, where content creation m
 - [Brand Guide](guides/brand-guide.pdf)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
 - [Platform Pitch Deck](BaseBuzz-Pitch-Deck.md)
+
+### Developer Resources
+
+- [Developer Portal](https://base.buzz/developer) - Main developer hub
+- [API Documentation](https://base.buzz/developer/api-docs) - Interactive API docs
+- [Sample Projects](https://base.buzz/developer/samples) - Code examples and templates
+- [App Showcase](https://base.buzz/developer/showcase) - Live applications
+- [API Keys](https://base.buzz/developer/api-key) - Authentication management
 
 ### Fonts
 

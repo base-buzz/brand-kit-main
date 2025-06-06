@@ -76,10 +76,12 @@
 
 ### **For Developers**
 
-- **Comprehensive APIs**: Build on top of Base Buzz
-- **Open Ecosystem**: Integrate with existing tools
-- **Documentation**: Full developer resources
-- **SDK Support**: Multiple programming languages
+- **Comprehensive APIs**: Build on top of Base Buzz with our REST API
+- **API Documentation**: Interactive docs at [base.buzz/developer/api-docs](https://base.buzz/developer/api-docs)
+- **Sample Projects**: Ready-to-use examples at [base.buzz/developer/samples](https://base.buzz/developer/samples)
+- **App Showcase**: Discover live applications at [base.buzz/developer/showcase](https://base.buzz/developer/showcase)
+- **API Keys**: Secure authentication at [base.buzz/developer/api-key](https://base.buzz/developer/api-key)
+- **SDK Support**: Multiple programming languages and frameworks
 
 ### **For Brands & Projects**
 
@@ -231,7 +233,7 @@ Be part of the platform that's redefining social media for the blockchain era.
 ## 📞 **Get Started**
 
 - **Website**: [base.buzz](https://base.buzz)
-- **Documentation**: [Developer APIs and Guides](https://docs.base.buzz)
+- **Documentation**: [Developer APIs and Guides](https://base.buzz/developer)
 - **Community**: Join our Discord and Telegram
 - **Contact**: hello@base.buzz
 
