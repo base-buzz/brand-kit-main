@@ -2,9 +2,9 @@
 
 # Base Buzz brand-kit
 
-This repo contains brand and editorial style guides for Base Buzz.
+This repo contains brand assets, style guides, and documentation for Base Buzz.
 
-Base Buzz is a secure, low-cost, developer-friendly Ethereum L2 built to bring the next billion users onchain. It's built on Optimism's open-source [OP Stack](https://stack.optimism.io/).
+Base Buzz is the premier social platform built on Base, where content creation meets blockchain innovation. We're building the first truly decentralized social network that rewards creators, empowers communities, and makes Web3 accessible to everyone.
 
 <!-- Badge row 1 - status -->
 
@@ -30,6 +30,7 @@ Base Buzz is a secure, low-cost, developer-friendly Ethereum L2 built to bring t
 
 - [Brand Guide](guides/brand-guide.pdf)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
+- [Platform Pitch Deck](BaseBuzz-Pitch-Deck.md)
 
 ### Fonts
 
